@@ -39,11 +39,3 @@
 
 
 
-
-
-![Intro](https://user-images.githubusercontent.com/77003896/226149075-94cfe93b-5430-4e2e-98b5-3d6f41ee68e8.
-
-![HomePage](https://user-images.githubusercontent.com/77003896/226149092-fe474319-e349-4337-8e8a-860886628cf5.jpg)
-
-
-
