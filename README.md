@@ -29,9 +29,18 @@
 </br>
 
 ## 3. 핵심 기능
-이 서비스의 핵심 기능은 요리 검색 기능입니다.  
+이 서비스의 핵심 기능은 요리 검색 및 저장 기능입니다.  
 사용자는 요리를 검색하고, 좋아하는 요리는 저장할 수 있습니다.  
 
 </br>
 
 ## 4. 구현화면
+
+
+
+
+
+
+![Intro](https://user-images.githubusercontent.com/77003896/226149075-94cfe93b-5430-4e2e-98b5-3d6f41ee68e8.![HomePage](https://user-images.githubusercontent.com/77003896/226149078-81102326-f6e8-40b1-8f7d-d5b80a176b67.jpg)
+jpg)
+
